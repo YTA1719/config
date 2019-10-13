@@ -14,9 +14,9 @@ set cindent
 set expandtab
 
 "色
-colorscheme molokai
+"colorscheme molokai
 set background=dark
-set t_ut=
+"set t_ut=
 syntax enable
 
 "キーボード関係
